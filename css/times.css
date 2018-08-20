@@ -1,0 +1,28 @@
+                         body {
+                             margin: 0 auto;
+                             text-align: center;
+                         }
+                         
+                         div {
+                             width: 50%;
+                             margin: 0 auto;
+                             font-size: 40px;
+                         }
+                         
+                         .header {
+                             background-repeat: no-repeat;
+                             width: 977px;
+                             height: 335px;
+                         }
+                         
+                         p {
+                             width: 50%;
+                             height: 100px;
+                             margin: 0 auto;
+                             font-size: 20px;
+                             border-bottom: 3px solid black;
+                         }
+                         
+                         .container {
+                             text-align: center;
+                         }

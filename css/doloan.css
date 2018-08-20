@@ -1,0 +1,124 @@
+        body {
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100%;
+            height: 200%;
+            background-image: url('../img/bg.png');
+            background-repeat: no-repeat;
+        }
+        
+        div {
+            margin: 0 auto;
+            text-align: center;
+        }
+        
+        h1 {
+            padding-bottom: 30px;
+            padding-top: 5%;
+            color: white;
+        }
+        
+        p {
+            color: white;
+            font-style: italic;
+            font-size: 20px;
+        }
+        
+        #random-image-container {
+            background-color: black;
+            border-radius: 7px;
+            height: 250px;
+            width: 500px;
+            background-repeat: no-repeat;
+            margin: 0 auto;
+            text-align: center;
+        }
+        
+        .quotes {
+            width: 50%;
+            margin: auto;
+            margin-top: 20px;
+            padding: 20px;
+            color: #fff;
+        }
+        
+        #quote {
+            font-size: 30px;
+            color: white;
+            text-shadow: 3px 3px 0 #000, /* Simulated effect for Firefox and Opera
+       and nice enhancement for WebKit */
+            -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        }
+        
+        .btn {
+            margin-top: 20px;
+        }
+        
+        .container {
+            margin-top: 5%;
+        }
+        
+        .random-image-01 {
+            background-image: url('../img/D1.png');
+        }
+        
+        .random-image-02 {
+            background-image: url('../img/D2.png');
+        }
+        
+        .random-image-03 {
+            background-image: url('../img/D3.png');
+        }
+        
+        .random-image-04 {
+            background-image: url('../img/D4.png');
+        }
+        
+        .random-image-05 {
+            background-image: url('../img/D5.png');
+        }
+        
+        .random-image-06 {
+            background-image: url('../img/D6.png');
+        }
+        
+        .random-image-07 {
+            background-image: url('../img/D7.png');
+        }
+        
+        .random-image-08 {
+            background-image: url('../img/D8.png');
+        }
+        
+        .random-image-09 {
+            background-image: url('../img/D9.png');
+        }
+        
+        .random-image-10 {
+            background-image: url('../img/D10.png');
+        }
+        
+        .random-image-11 {
+            background-image: url('../img/D11.png');
+        }
+        
+        .random-image-12 {
+            background-image: url('../img/D12.png');
+        }
+        
+        .random-image-13 {
+            background-image: url('../img/D13.png');
+        }
+        
+        .random-image-14 {
+            background-image: url('../img/D14.png');
+        }
+        
+        .random-image-15 {
+            background-image: url('../img/D15.png');
+        }
+        
+        .random-image-16 {
+            background-image: url('../img/D16.png');
+        }
